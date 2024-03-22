@@ -6,7 +6,7 @@
 
 プロジェクトはGitHub Pagesに公開されており、以下のリンクからアクセスできます：
 
-[社会資源コンシェルジュ](https://shinyryo.github.io/BasicChatBot/)
+[社会資源コンシェルジュ](https://ry02024.github.io/SocialResourceFinder/)
 
 ## 2. 使用方法
 
