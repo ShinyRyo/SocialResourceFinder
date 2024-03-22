@@ -6,7 +6,7 @@
 
 プロジェクトはGitHub Pagesに公開されており、以下のリンクからアクセスできます：
 
-(<a href="https://ry02024.github.io/SocialResourceFinder/" target="_blank">社会資源コンシェルジュ</a>)
+<a href="https://ry02024.github.io/SocialResourceFinder/" target="_blank">社会資源コンシェルジュ</a>
 
 ## 2. 使用方法
 
