@@ -16,7 +16,7 @@ Webアプリケーションを使用するには、Google AI StudioからAPIキ�
 
 Google AI StudioでAPIキーを取得するには以下の手順に従ってください。
 
-1. [Google AI StudioのAPIキー作成ページ](https://aistudio.google.com/app/apikey)を開きます。
+1. <a href="https://aistudio.google.com/app/apikey" target="_blank">Google AI StudioのAPIキー作成ページ</a>を開きます。
 2. 利用規約に同意し、「Continue」をクリックします。
 3. 「Create API key」をクリックし、新規プロジェクトの作成か既存プロジェクトへの追加を選びます。
 4. APIキーが生成されたら、コピーしてアプリケーションで使用します。
